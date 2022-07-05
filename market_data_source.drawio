@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T01:52:15.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="Yd_w7rvqsIZtwUv1s75k" type="github"><diagram id="SP5hAMy9o3MMISrC1l-r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-05T02:27:22.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="O7coAb0ff0JxCX23Ji7z" version="20.0.4" type="github">
+  <diagram id="SP5hAMy9o3MMISrC1l-r" name="Page-1">
+    <mxGraphModel dx="670" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-1" target="x6xgpYq53ghAcJKD5NHJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-1" target="x6xgpYq53ghAcJKD5NHJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2340" y="650" />
+              <mxPoint x="2660" y="650" />
+              <mxPoint x="2660" y="400" />
+              <mxPoint x="2340" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-1" value="TT语音归因源表&lt;br&gt;ttdw.ods_tt_attribution_data_hi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="820" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-2" target="x6xgpYq53ghAcJKD5NHJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-2" value="TT系归因补充cmid&lt;br&gt;market_dw.ods_market_attribution_cmid_attr_index_di" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="535" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-3" target="x6xgpYq53ghAcJKD5NHJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2610" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-3" target="x6xgpYq53ghAcJKD5NHJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-3" value="素材表&lt;br&gt;market_dw.dim_market_channel_material_df" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1928" y="820" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-4" target="x6xgpYq53ghAcJKD5NHJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-4" target="x6xgpYq53ghAcJKD5NHJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-4" value="TT系/唱鸭新媒体数据&lt;br&gt;market_dw.ods_fly_ch_channel_star_df" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="820" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-8" value="TT系归因基础表&lt;br&gt;market_dw.ods_market_attribution_data_di" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2205" y="240" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-12" target="x6xgpYq53ghAcJKD5NHJ-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-12" target="x6xgpYq53ghAcJKD5NHJ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1620" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1515" y="610" />
+              <mxPoint x="1740" y="610" />
+              <mxPoint x="1740" y="430" />
+              <mxPoint x="1515" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-12" value="声洞归因源表&lt;br&gt;sddw.ods_sd_attribution_data_hi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="820" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="x6xgpYq53ghAcJKD5NHJ-14" target="x6xgpYq53ghAcJKD5NHJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-14" value="声洞归因补充cmid&lt;br&gt;market_dw.ods_market_sd_attribution_cmid_attr_index_di" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="535" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-18" value="声洞归因基础表&lt;br&gt;market_dw.ods_market_sd_attribution_data_di" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="240" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x6xgpYq53ghAcJKD5NHJ-21" value="TT系激活基础表&lt;br&gt;market_dw.dwd_market_tt_active_device_info_di" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3100" y="240" width="270" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
