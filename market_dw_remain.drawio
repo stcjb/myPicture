@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T03:38:37.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.1" etag="RJoN_BjTT9na5Zd7ofmB" type="github"><diagram id="1ogbj0S6pRtTC2MG8JW6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-19T03:48:15.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LhEvyF7T6eM38z4b5ADf" version="20.1.1" type="github">
+  <diagram id="1ogbj0S6pRtTC2MG8JW6" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U0Nmb_XPpJZfFO_V-i1K-1" value="4450【市场】通用设备留存标签模型&lt;br&gt;market_dw.dws_market_new_device_remain_tag_di" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0Nmb_XPpJZfFO_V-i1K-2" value="1540【TT语音】设备留存&lt;br&gt;ttdw.dws_tt_user_device_remain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0Nmb_XPpJZfFO_V-i1K-3" value="3385【声洞】设备留存表&lt;br&gt;sddw.dws_sd_device_remain_di" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0Nmb_XPpJZfFO_V-i1K-4" value="5703【唱鸭】设备留存表&lt;br&gt;cydw.dws_cy_device_remain_di" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
